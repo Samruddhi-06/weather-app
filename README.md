@@ -23,15 +23,12 @@ A simple and responsive weather application that displays real-time weather info
 
 ---
 
-## Preview
-
-![Weather App Screenshot](screenshot.png) <!-- Add screenshot of your UI if possible -->
-
----
-
 ## How to Run Locally
 
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/Samruddhi-06/weather-app.git
+
+## Site is live at
+https://samruddhi-06.github.io/weather-app/

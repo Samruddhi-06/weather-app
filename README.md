@@ -23,6 +23,10 @@ A simple and responsive weather application that displays real-time weather info
 
 ---
 
+## Site is live at
+https://samruddhi-06.github.io/weather-app/
+
+---
 ## How to Run Locally
 
 1. Clone the repository:
@@ -30,5 +34,4 @@ A simple and responsive weather application that displays real-time weather info
 ```bash
 git clone https://github.com/Samruddhi-06/weather-app.git
 
-## Site is live at
-https://samruddhi-06.github.io/weather-app/
+
